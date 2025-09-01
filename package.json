@@ -1,0 +1,21 @@
+{
+  "name": "hospital",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Isaquellucas/hospital.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Isaquellucas/hospital/issues"
+  },
+  "homepage": "https://github.com/Isaquellucas/hospital#readme",
+  "description": ""
+}

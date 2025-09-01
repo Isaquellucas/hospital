@@ -1,0 +1,11 @@
+---------Objetivo
+
+Você precisa de uma forma de guardar pacientes.
+
+Também precisa de uma forma de guardar médicos.
+
+Depois, quando alguém marcar uma consulta, tem que ligar um paciente a um médico.
+
+Quando alguém quiser cancelar, você precisa remover essa ligação.
+
+No final, você imprime o resumo do dia com todos que foram atendidos.
